@@ -2,7 +2,7 @@ ___FILEHEADER___
 
 import UIKit
 
-final class ___VARIABLE_productName___Controller : BaseViewController {
+final class ___VARIABLE_productName___Controller : UIViewController {
     
     var viewModel: ___VARIABLE_productName___ViewModelProtocol!{
         didSet{

@@ -11,7 +11,7 @@
   
 #### Controller
 ```swift
-final class TemplateController : BaseViewController {
+final class TemplateController : UIViewController {
     
     var viewModel: TemplateViewModelProtocol!{
         didSet{
